@@ -1,0 +1,26 @@
+Execução da questão 6 para 0 graus:
+
+- Frequência de clock = 100hz
+- Números de instruções = 83
+- Ciclos de clock = 221
+- CPU time 
+221/100
+CPU time = 2.21
+
+- CPI
+Instruções/CPU time = Clock rate/CPI
+83/2.21 = 100/CPI
+83CPI = 221
+CPI = 221/83
+CPI =~ 2.66
+
+- Taxa de leitura
+Taxa de leitura = CPI/CPU
+2.66/2.21
+taxa de leitura =~ 1.2
+
+10x a taxa de leitura fica = 12
+
+Frequência final = Números de instruções * Taxa de leitura final
+12 * 83
+Frequência final = 996Hz
