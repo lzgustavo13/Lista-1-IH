@@ -1,0 +1,16 @@
+b)
+- Plataforma executando a 100Hz
+Processador RISC-V dual-cycle
+i. Clock = 21
+CPU time = 21/100
+CPU time = 0.21
+
+Processador RISC-V cycle-accurate
+
+ii. Clock = 45
+CPU time = 45/100
+CPU time = 0.45
+
+13/0.45 = 100/CPI
+13CPI = 45
+CPI = 45/13
