@@ -1,0 +1,9 @@
+a)
+- Plataforma executando a 100Hz
+RISC-V cycle-accurate
+O tempo de execução máximo, escolhemos o pior caso que 
+é a mutiplicação de 9999 x 9999
+
+i. Clock = 359
+CPU time = 359/100
+CPU time = 3.59
