@@ -1,0 +1,13 @@
+7) Cálculo de CPI baseada no RISC-V cycle-accurate
+
+O código possui 112 instruções
+
+O CPU time com a entrada 1001, que no display de 7 segmentos sai o 9 o é
+CPU time = 101/100
+CPU time = 1.01
+
+Instruções/CPU time = Clock rate/CPI
+112/1.01 = 100/CPI
+112CPI = 101
+CPI = 101/112
+
